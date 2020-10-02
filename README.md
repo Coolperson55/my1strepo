@@ -1,2 +1,2 @@
 # my1strepo
-This is my First repo on Hello world in C programming.
+This is my First Hello World repo in C programming.
